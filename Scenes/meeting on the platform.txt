@@ -1,0 +1,15 @@
+Brighton station, as any busy station or port, is both chaos and order at the same time. In a like brownian way people's actions seem random, but this is an illusion. While relative to each other their movements are unconnected, each with their own plan, their own pattern to follow, from the back packing girl who has hefted her rucksack to the floor and begun publicly pawing through her own dirty laundry and cheep nick knacks, her trophies from the music festival, to find, who knows what, to the busy business man dashing to the barrier to catch the next train to London, to the vaguely concerned looking woman with the straight brown hair who might be looking for someone.
+
+That was her, that was his wife. John saw her across the ticket hall, wearing a simple white blouse and pencil skirt, straight brown hair and his wife's face holding a look of slight worry as if she was afraid she'd missed something she should have been on time for, like a parent arriving after the school play has already begun.
+
+Out of the corner of her eye Jane glimpsed the figure of a man striding towards her, suitcase in tow on its little wheels with its exendible handle like some mutant plastic dog trotting along beside him. It was John, and the familiar tingle she always felt on seeing him when parted a while, ran up her spine and filled her with excitment. She rushed into his embrace, and after a moment asked, "So how was Burmingham?"
+
+"I'll tell you all about it in the car," he replied.
+
+
+[aut:lucsan]
+[chr:john smith]
+[chr:jane smith]
+[set:brighton station]
+[pre:waiting in the carpark]
+[pre:eating a pie]

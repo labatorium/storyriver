@@ -1,0 +1,12 @@
+Jane Smith sat in her car her hot pie wrapped in a crisp white bag. A girl in shinny blue leggings roller-bladed past, wisps of blond hair escaping from her pink cycle helmet. A middle aged man with long hair walked by, carrying his heavy shopping homeward, a couple of rail workers in dark jackets having a quick smoke by the bicycle racks talked idle gossip.
+
+Jane opened the bag and pie aroma pushed away the car's usual smell of plastic and oil. She sat eating the delicious pie and waiting for the ten seventeen train to roll in to the station with her husband on board.
+
+So much was she enjoying her breakfast, it wasn't until she'd finished she realised she was late meeting him.
+
+[aut:lucsan]
+[aut:barry]
+[chr:jane smith]
+[set:brighton station]
+[set:brighton station carpark]
+[pre:early at the bakery]

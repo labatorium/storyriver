@@ -1,0 +1,9 @@
+Every story has to begin somewhere and this is where this story does, it is the source. It might not be where you started the story, for you, dear reader, this may be far from the start, but for the begining, this is the place.
+
+And what is this place? A busy metropolitan railway station, a place where journeys begin and end, only they don't, like this story, they are only passing through. In any case passing through the station, jostling with the throng of tired travelers is a man, Mr. Smith perhaps, a nice anonymous name for an apparently unremarkable man, but then perhaps he remains unremarkable, because, like the rest of us, he has made some effort to fit in, to not seem different or to stand out, to be as it were, unremarkable.
+
+Alighting from the slightly delayed ten seventeen from London Victoria Mr. Smith, John to his friends, heaves his suitcase onto the platform, its little plastic wheels clicking on the black platform. He draws a hand through his untidy hair, neither improving nor disturbing the overall look, besides it is more of a gesture of despair at the state of the trains, the noise and clamour of his fellow travelers, the screaching of the tannoy and the unintelligible garble that is the announcement, which can't be that important or they would fix it wouldn't they?
+
+[aut:Lucsan]
+[chr:John Smith]
+[set:Brighton Station]

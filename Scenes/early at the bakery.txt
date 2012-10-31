@@ -1,0 +1,16 @@
+It was early in the morning when Maurice the baker pulled, what was to be the best batch of pies he would ever make, from the hot oven. One in particular out shone the rest, its deep crust glistened with a coating of baked egg white, the dimples round the edge and the cross hatched emblem on the top were as art to the beholder.
+
+For a while the pie sat concededly in its place on the cooling rack surrounded by its excellent, though ever so slightly not the best, pie brethren. A delitious aroma of pie goodness surrounded the cooling pies like an invisible duvet of tasty delight.
+
+It just so happened that morning, neither Maurice, who by chance was unusually busy, nor the pie, which was incapable of thought, noticed just how perfect the pie was, no one remarked how it was sure to win the prize rosette at any county fair you'd care to mention.
+
+It just so happened that the greatest creation of Maurice's profesional like was racked and packed and dispated to the pie vendor who's concession stood on Brighton Station mezzine. Having dispatched that days pies Maurice turned to the waiting customer.
+
+"What can I do for you Mrs. Smith?" he asked.
+
+"Do you have anymore of those pies you just sent out?"
+
+[aut:barry]
+[chr:the pie]
+[chr:jane smith]
+[set:bakery]
