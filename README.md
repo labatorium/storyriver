@@ -44,3 +44,5 @@ Anyone can write using an existing character or scene (ie: a character or scene 
 The rule of interconnectedness states that a new character can only be introduced in an existing scene, and a new scene can only be created with an existing character or characters. This ensures there is always a trail of characters and scenes to follow.
 
 Characters and scenes should be as consistent as possible.
+
+for further details please checkout the collabatorium at smartians.co.uk
