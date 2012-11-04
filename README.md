@@ -1,20 +1,29 @@
-Experiment-number-one
+Storyriver
 =====================
 
-Experimental repository
+Experimental creative writing repository
 
-Prospective build of a GIT repository for use as a collaborative creative writing tool. Investigating GIT's potential (or lack) for use as such a tool.
-
-First design:
-character and scene text - overview / list of current characters and scenes.
-character and scene notes folders - contain detailed thumbnail sketches of characters and scenes respectively.
-
-Pieces folder contains scenes with characters in them, the actual piece of creative writing which forms a piece of the story.
+Have a look at an existing scene.txt (in the scenes folder)) it contains a bit of creative writing and a series of tags. You check out the story so far and join in the fun at smartians.co.uk where a web interface is also provided to contribute through. (No registration needed to read the story) or you can contribute to the storyriver by forking this repository then requesting a pull from the labatorium.
 
 
 Technical aspects:
 
-Each piece needs tagging with the scene and the characters in it, so when compiled (using say a wiki) the readers can follow a character or read the action in a scene.
+All scene files currently live in the Scenes/ folder.
+
+The title of the scene is the file name without the extension.
+
+The file has to be a .txt file at the moment.
+
+The tags which are recognised are:-
+
+[aut:author name]
+[chr:character name]
+[chr:prop name]
+[set:place or location name]
+[edt:editor name]
+[pre:a scene which precedes this scene]
+
+You can have multiples of every tag. You need either an existing author, character or set refrenced in the file for anyone to have a chance to find your work.
 
 
 Roles:
