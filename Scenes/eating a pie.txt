@@ -4,23 +4,22 @@ John, feeling hungry, thought he would console himself a moment, with a deliciou
 
 Feeling the boy's impatience down his neck, John was still not to be rushed. A particularly good pie, a tasty looking one which left a mouthwatering tang in the air, had caught John's eye. The Vendor turned to him.
 
-"What would you like?"
+'What would you like?'
 
-"I think I'll have that pie there please." said John indicating with a tremulous finger.
+'I think I'll have that pie there please.' said John indicating with a tremulous finger.
 
-"This one?"
+'This one?'
 
-"No the one to the left of that one."
+''No the one to the left of that one.'
 
 The Vendor put a plastic bag on his hand, picked up the pie and popped it into a paper bag.
 
 The golden crust winked enticingly at John, he lifted the award winning pie without awards, the pie which was art, Maurice's best pie ever, towards his mouth. A few moments later having consumed what was to be the best pie he would eat in his life, John licked his lips and wiped them with the back of hand before crumpling the now empty pie bag into a ball and tossing it into a bin, he let a satisfied burp.
 
 He hadn't realised just how hungry he'd been, but now, satiated a while, he looked round for his still missing wife.
-
 [aut:barry]
-[pre:the source]
-[pre:early at the bakery]
 [chr:john smith]
 [chr:the pie]
 [set:Brighton Station]
+[pre:the source]
+[pre:early at the bakery]
